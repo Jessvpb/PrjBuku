@@ -1,1 +1,1 @@
-require("./bin/www");
+require("./node_modules/bin/www");
